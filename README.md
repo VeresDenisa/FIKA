@@ -24,10 +24,8 @@ Part of the implementation:
 - roof holder + 2 roof adapters
 - 7 rods + 6 rod adapters
 
-Front side view | Back side view
+
+Front view | Back view
 :---:|:---:
 ![side_up_view](https://user-images.githubusercontent.com/102032056/199344321-ac12c204-77d3-4801-99ba-dcbdbc64ecb4.png) | ![side_back_view](https://user-images.githubusercontent.com/102032056/199344327-cea4ca19-fb94-49d6-98fe-7c94bafff951.png) |
-
-
-
-![front_view](https://user-images.githubusercontent.com/102032056/199344309-2af74123-7814-4c8e-a222-c3f6269bdba7.png)
+![front_view](https://user-images.githubusercontent.com/102032056/199344309-2af74123-7814-4c8e-a222-c3f6269bdba7.png) | ![pic2](https://user-images.githubusercontent.com/102032056/201543246-94e88b50-11a1-43de-98d5-ae2ce8f76262.png) |
